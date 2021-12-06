@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content=
 		"width=device-width, initial-scale=1.0">
-	<title>Text Animation</title>
+	<title>welcome to devops</title>
 	<style>
 		* {
 			padding: 0;
