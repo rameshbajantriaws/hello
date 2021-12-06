@@ -61,7 +61,7 @@
 </div>
 	<div class="container">
 		<div class="row">
-<span class="text2">DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDd</span>
+<span class="text2">@/span>
 			<span class="text1">Hello Devops !!</span>
 			<span class="text2">learning Devops really fun!!!!</span>
 			
