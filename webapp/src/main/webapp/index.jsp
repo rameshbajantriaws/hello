@@ -61,7 +61,7 @@
 </div>
 	<div class="container">
 		<div class="row">
-<<<<<<< HEAD
+
 <h1>Helooo Devops******************************</h1>
 
 <span class="text2">Fun</span>
