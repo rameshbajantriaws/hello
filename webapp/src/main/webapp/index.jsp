@@ -61,7 +61,11 @@
 </div>
 	<div class="container">
 		<div class="row">
-<h1>*****************************Helooo Devops******************************</h1>
+<<<<<<< HEAD
+<h1>Helooo Devops******************************</h1>
+
+<span class="text2">**************************************************************************</span>
+>>>>>>> f04f003859d5780b60b4dd98f07d896223e19b31
 			<span class="text1">Hello Devops !!</span>
 			<span class="text2">learning Devops really fun!!!!</span>
 			
