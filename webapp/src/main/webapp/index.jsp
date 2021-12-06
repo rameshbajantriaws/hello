@@ -64,7 +64,7 @@
 <<<<<<< HEAD
 <h1>Helooo Devops******************************</h1>
 
-<span class="text2">********KKKKKKKKKKKKKKKKKkk*****************</span>
+<span class="text2">Fun</span>
 
 			<span class="text1">Hello Devops !!</span>
 			<span class="text2">learning Devops really fun!!!!</span>
