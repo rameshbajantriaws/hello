@@ -62,7 +62,7 @@
 	<div class="container">
 		<div class="row">
 
-<h1>Helooo Devops******************************</h1>
+
 
 <span class="text2">Fun</span>
 
