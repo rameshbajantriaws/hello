@@ -44,7 +44,22 @@
 			background: yellowgreen;
 			position: relative;
 			animation: text 3s 1;
+			
 		}
+		
+		.text1 {
+			color: white;
+			font-size: 70px;
+			font-weight: 700;
+			letter-spacing: 10px;
+			margin-bottom: 20px;
+			background: red;
+			position: relative;
+			animation: text 4s 1;
+			
+			
+		}
+
 
 		.text2 {
 			font-size: 30px;
@@ -71,7 +86,7 @@
 
 
 
-<span class="text2">Fun</span>
+
 			
 			<span class="text1">Hello Devops !!</span>
 			<NOBR>A compound of development (Dev) and operations (Ops), DevOps is the union of people, process and technology to continually provide value to customers.</NOBR>
