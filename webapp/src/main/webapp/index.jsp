@@ -48,12 +48,12 @@
 		}
 		
 		.text3 {
-			color: white;
-			font-size: 70px;
+			color: blue;
+			font-size: 20px;
 			font-weight: 700;
 			letter-spacing: 10px;
 			margin-bottom: 20px;
-			background: blue;
+			background: darkgreen;
 			position: relative;
 			animation: text 4s 1;
 			
