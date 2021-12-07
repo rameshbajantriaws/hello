@@ -65,11 +65,11 @@
 
 
 <span class="text2">Fun</span>
-			<span class="text2">***************************************************8</span>
+			<span class="text2">***************************************************</span>
 
 			<span class="text1">Hello Devops !!</span>
 			<span class="text2">learning Devops really fun!!!!</span>
-			<span class="text2">***************************************************8</span>
+			<span class="text2">***************************************************</span>
 		</div>
 	</div>
 	
