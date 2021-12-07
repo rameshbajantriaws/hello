@@ -74,7 +74,7 @@
 <span class="text2">Fun</span>
 			
 			<span class="text1">Hello Devops !!</span>
-			<div class="indented">	<P class="text2" >A compound of development (Dev) and operations (Ops), DevOps is the union of people, process and technology to continually provide value to customers.</p> </div>
+			<NOBR>A compound of development (Dev) and operations (Ops), DevOps is the union of people, process and technology to continually provide value to customers.</NOBR>
 		</div>
 			<span class="text2">learning Devops really fun!!!!</span>
 			 
