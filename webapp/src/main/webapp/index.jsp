@@ -53,7 +53,7 @@
 			font-weight: 700;
 			letter-spacing: 10px;
 			margin-bottom: 20px;
-			background: red;
+			background: blue;
 			position: relative;
 			animation: text 4s 1;
 			
