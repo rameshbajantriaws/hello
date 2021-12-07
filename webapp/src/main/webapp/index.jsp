@@ -64,7 +64,7 @@
     
   </div>
 	
- <div class="indented">	<P >A compound of development (Dev) and operations (Ops), DevOps is the union of people, process and technology to continually provide value to customers.</p> </div>
+
 </div>
 	<div class="container">
 		<div class="row">
@@ -75,6 +75,7 @@
 			
 			<span class="text1">Hello Devops !!</span>
 			<span class="text2">learning Devops really fun!!!!</span>
+			 <div class="indented">	<P >A compound of development (Dev) and operations (Ops), DevOps is the union of people, process and technology to continually provide value to customers.</p> </div>
 		</div>
 		
 		
