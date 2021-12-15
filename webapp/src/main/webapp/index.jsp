@@ -89,8 +89,7 @@
 
 			
 			<span class="text1">Hello Devops !!</span>
-			<span class="text3"><NOBR>A compound of development (Dev) and operations (Ops), DevOps is the union of people, process and technology to continually provide value to customers.</NOBR></span>
-		</div>
+			
 			<span class="text2">learning Devops really fun!!!!</span>
 			 
 		
