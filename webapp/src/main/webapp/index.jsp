@@ -89,7 +89,7 @@
 
 			
 			<span class="text1">Hello Devops !!</span>
-			<hr>
+			
 			<span class="text2">learning Devops really fun!!!!</span>
 			 
 		
